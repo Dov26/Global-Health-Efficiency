@@ -1,0 +1,42 @@
+name: Global Health Efficiency Portfolio
+
+on:
+  push:
+  branches: [ main ] # Se déclenche dès que vous envoyez vers GitHub
+workflow_dispatch: # Permet de lancer le déploiement manuellement si besoin
+  
+  jobs:
+  build-deploy:
+  runs-on: ubuntu-latest
+permissions:
+  contents: write
+steps:
+  - name: Check out repository
+uses: actions/checkout@v4
+
+- name: Install Quarto
+uses: quarto-dev/quarto-actions/setup@v2
+
+- name: Install R
+uses: r-lib/actions/setup-r@v2
+with:
+  use-public-rspm: true # Accélère l'installation des packages sous Linux
+
+- name: Install Dependencies
+run: |
+  Rscript -e "install.packages(c('pacman', 'tidyverse', 'quarto', 'knitr', 'plotly', 'factoextra', 'hrbrthemes', 'RColorBrewer', 'readr', 'shinydashboard'))"
+
+- name: Run Master Orchestrator
+run: |
+  # On définit la variable d'environnement pour que le script R 
+  # sache qu'il n'est plus sur votre Windows (C:/...)
+  Rscript "Master Orchestrator.R"
+env:
+  GITHUB_ACTIONS: true
+
+- name: Render and Publish to GitHub Pages
+uses: quarto-dev/quarto-actions/publish@v2
+with:
+  target: gh-pages
+env:
+  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -1,0 +1,14 @@
+
+project:
+  type: website
+  output-dir: ../outputs
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-fold: true
+  pdf:
+    documentclass: report
+    toc: true
+

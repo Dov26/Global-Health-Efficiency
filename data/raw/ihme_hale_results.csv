@@ -1,0 +1,673 @@
+population_group_id,population_group_name,measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1980,45980613.245439954,46305760.54819675,45665430.97910445
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1980,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1980,1028.8213010045413,1036.0965078238753,1021.769062976007
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1981,45835859.77142222,46197631.11121391,45457346.14897438
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1981,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1981,1006.9731686613158,1014.9209639939993,998.6575602342332
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1982,45929056.45937364,46351111.64875947,45532063.17233256
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1982,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1982,990.9296511256648,1000.0355861004842,982.3644322913779
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1983,46443073.64653648,46850625.98667344,46028994.75448254
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1983,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1983,983.9283419957582,992.5626176115228,975.1557969050767
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1984,46802291.67928068,47366750.9368275,46363259.91116673
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1984,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1984,973.597749032375,985.3398292350702,964.464855623681
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1985,46914587.722866945,47337731.56277684,46477055.61930003
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1985,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1985,958.2122134431306,966.8547618513157,949.2757903440336
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1986,46887220.70860837,47402366.29157464,46512695.22581573
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1986,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1986,940.5045240940888,950.8377608273526,932.9919672474349
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1987,46996043.71127513,47400264.3925315,46613396.122015186
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1987,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1987,926.161883191841,934.1279534780433,918.6209588100971
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1988,47387730.561630376,47776527.92551968,47036008.05236747
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1988,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1988,917.8785655477884,925.4093918276283,911.0658621655655
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1989,47559663.2508728,47907976.2626228,47176421.66958705
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1989,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1989,905.8693316502388,912.5036527028232,898.5697258210596
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1990,47939538.567121744,48307123.43673697,47564740.35066254
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1990,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1990,898.4008194748404,905.2894662570063,891.3769924863275
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1991,48389303.3271266,48787083.083143525,48016966.30390951
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1991,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1991,892.9345562039098,900.2748414629199,886.0637692381001
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1992,48487321.67286615,48897500.285619356,48116008.77452721
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1992,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1992,881.5791804382308,889.0369016071575,874.8281018199423
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1993,49185579.14307427,49551032.846824564,48782241.16854577
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1993,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1993,881.4469858242429,887.9962238578547,874.2188297648744
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1995,49878658.17581665,50288457.49080984,49457258.36623539
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1995,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1995,870.1393557355909,877.2883554274462,862.7879839820919
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1994,50293925.11217164,50885001.7690666,49705005.792502455
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1994,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1994,888.9963825268561,899.4442648228542,878.5866333649368
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1996,50033821.95791637,50530758.27167643,49604630.86803437
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1996,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1996,861.6100079937493,870.1675253793147,854.2191007251593
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1997,50115376.685222305,50604489.82042772,49631450.13572626
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1997,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1997,851.9998026300813,860.3151006927149,843.7726804985283
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1998,50424708.035445884,50868827.49777275,50018621.79340002
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1998,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1998,846.4553142704414,853.9105340169444,839.6385398948672
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1999,50736400.32757585,51198954.73546987,50334706.573642194
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1999,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1999,841.0765477006339,848.7444875229991,834.417518017605
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2000,50746089.58199774,51060785.48475041,50430843.99712593
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2000,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2000,830.7693575281302,835.9212759340621,825.6084402207118
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2001,50828187.053754374,51233195.69737988,50440955.36563793
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2001,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2001,821.6850621331137,828.2324046962065,815.4251006402249
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2002,51151988.402269386,51563925.97954478,50738720.46545184
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2002,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2002,816.501192125775,823.0766456600866,809.9045030503623
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2003,51388721.957802214,51819476.482806966,51025442.84865567
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2003,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2003,809.8464063258001,816.634763591624,804.1214092870109
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2004,51225702.256888136,51628222.87234739,50838806.559242465
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2004,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2004,796.9534998528143,803.2157900532382,790.9342972507596
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2005,51133817.320171684,51510255.95980753,50754984.338583805
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2005,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2005,785.175822994328,790.9561565225724,779.358723593491
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2007,51221686.7263185,51640962.512747385,50828560.547074385
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2007,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2007,765.9422628226571,772.2118932297924,760.0636599388057
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2006,50981007.71068012,51345757.66154913,50572359.9785878
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2006,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2006,772.6139645769468,778.141727135495,766.4209339056233
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2008,51663770.44209643,52060053.393965684,51289379.06653796
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2008,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2008,762.2725851424941,768.1195379990962,756.7486313299886
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2009,51339991.648265965,51697587.39543424,51007400.63535839
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2009,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2009,747.2087463949061,752.4132402286481,742.368174633238
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2011,51792231.87295196,52251680.261352114,51375276.19985886
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2011,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2011,734.5238435689531,741.0397974864653,728.6105265999242
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2010,51849869.954864286,52192768.80643676,51502897.17700112
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2010,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2010,744.6257069952311,749.5501417142045,739.6427658567212
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2012,52041182.97219504,52414145.28917254,51596098.167790666
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2012,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2012,728.9014561165714,734.1252569680373,722.6674901784969
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2013,52338687.01328106,52670325.276757576,52011095.90049026
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2013,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2013,723.8680305760444,728.4547397647084,719.3372953363564
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2014,52761768.229423426,53124239.7094406,52354324.16271565
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2014,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2014,720.64684276144,725.5976610609631,715.0817661893643
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2016,54619439.58377523,55030941.116439,54253765.92626991
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2016,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2016,727.8433413455241,733.3268954205049,722.9704766887472
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2015,53773642.27190466,54137069.44681035,53434178.91371802
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2015,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2015,725.3507424839828,730.2529986827302,720.7717333541614
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2017,55390657.069488585,55796547.7668381,54976460.773119815
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2017,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2017,729.3027907240596,734.6469630803216,723.8492624427405
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2020,60149423.06948474,60348027.69329317,59942451.03505639
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2020,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2020,766.2525360261258,768.7825901628704,763.6158881885567
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2018,55453593.86568615,55856748.05540948,55063747.66535848
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2018,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2018,721.7541232005635,727.0013610878533,716.6800949386248
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2019,55159817.30207495,55495519.41349046,54839903.11912642
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2019,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2019,709.9883942213553,714.3093766806587,705.8706257415149
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2021,65932516.135529526,66248253.31299224,65619812.89067457
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2021,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2021,832.1909224479078,836.1761125841944,828.2440261812264
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2022,60777800.591417566,61718745.224351056,59945744.931595206
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2022,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2022,760.2146114324852,771.9840379590198,749.8071787191117
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2023,60043088.86146642,61239779.90044624,59045446.995901234
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2023,1.0,1.0,1.0
+1,Toute la population,1,Décès,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2023,744.4132752036382,759.2498319602228,732.0445269811883
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1990,2741612915.302581,2900167403.4165382,2599879249.0753536
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1990,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1990,51378.61905662745,54349.97602648127,48722.48915442927
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1991,2749405039.957313,2915383354.1065884,2607510759.976934
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1991,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1991,50735.15426709617,53797.97522325718,48116.759348996035
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1992,2735364397.0852523,2903049122.12862,2591003387.45147
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1992,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1992,49733.41938026228,52782.203214376765,47108.69901688937
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1993,2746343066.314871,2915287616.470166,2599728028.357472
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1993,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1993,49216.77979638901,52244.4083635478,46589.31488623455
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1994,2807208505.6879277,2986819452.0890803,2654814546.0325804
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1994,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1994,49620.27125521029,52795.07778018776,46926.552708678326
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1995,2760996633.374021,2939551526.1913958,2610641216.1602783
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1995,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1995,48165.927465086075,51280.83963557578,45542.958631310285
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1996,2758559257.072742,2939227983.881215,2606061881.761929
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1996,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1996,47503.91176466215,50615.126879921576,44877.8228588198
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1998,2746473628.7088494,2927525173.438613,2584099617.847094
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1998,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1998,46103.731466130455,49142.956642915895,43378.03706455409
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1997,2747761318.011553,2927801788.0422635,2590804599.58617
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1997,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1997,46714.047772701655,49774.873712314424,44045.663297416984
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1999,2742360845.162711,2924873709.1927557,2583360280.431536
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1999,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1999,45461.1556457863,48486.740602508435,42825.34299051082
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2000,2729512711.5849824,2910686085.99916,2565963067.411395
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2000,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2000,44685.12826203564,47651.13587174642,42007.64051996052
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2001,2716787036.332418,2904857806.794733,2553349155.0511327
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2001,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2001,43919.39697535114,46959.736434032166,41277.2711506883
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2002,2711835841.1703253,2899839334.895952,2540977565.3755403
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2002,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2002,43287.02101963136,46287.98112979542,40559.737286809606
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2003,2704662226.411741,2895434877.2533636,2534220039.5511885
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2003,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2003,42623.37923451957,45629.808268427,39937.34254676783
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2004,2698101360.185738,2893995706.9933486,2522360334.1909575
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2004,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2004,41976.21949962673,45023.88265330686,39242.0954258971
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2006,2655173152.9396853,2860866753.209697,2476578186.164331
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2006,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2006,40238.9820925655,43356.25566421811,37532.38660671585
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2005,2673802121.1652555,2874982011.4524994,2497270539.995643
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2005,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2005,41057.071250217734,44146.25164402892,38346.373383452774
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2007,2647566469.5982957,2859411914.8015933,2470828579.472148
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2007,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2007,39590.321645061165,42758.147424299255,36947.47584786946
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2008,2651602638.3640375,2869367102.725969,2476021871.3586836
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2008,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2008,39123.04465237931,42336.048267502265,36532.439978713846
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2009,2627920103.2574573,2845942408.032886,2447091926.4160376
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2009,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2009,38247.082302501694,41420.20656308731,35615.28609465954
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2010,2638949129.0562797,2859294553.698013,2456366486.442173
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2010,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2010,37898.44338391886,41062.865353536996,35276.339809504185
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2011,2621644538.5348682,2848458308.4633303,2432091252.912492
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2011,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2011,37180.48736806501,40397.18832953152,34492.21920734916
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2012,2615034452.8695426,2845254829.3146315,2423228637.0545697
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2012,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2012,36626.80807063925,39851.330612876394,33940.3292003596
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2014,2622100393.1368985,2853955650.4960527,2423987098.4767933
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2014,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2014,35813.9697195339,38980.76576903281,33108.038415543706
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2013,2615214524.218213,2844850282.8517103,2420776446.8566203
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2013,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2013,36169.61554078219,39345.58333511538,33480.447811125276
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2015,2638410034.219938,2876754759.4324036,2433584608.015057
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2015,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2015,35589.41883872569,38804.44233528976,32826.535970831676
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2016,2651053135.5790877,2893480518.572585,2440305298.593606
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2016,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2016,35327.190959637475,38557.71030982235,32518.82435936173
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2017,2657264454.2523475,2906417762.825698,2448804579.4728074
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2017,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2017,34986.95420324928,38267.43890724404,32242.260847473015
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2018,2649658440.9333878,2898938505.821936,2438437822.970693
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2018,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2018,34486.527770388835,37731.02289005222,31737.39392184527
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2019,2637383005.530689,2894413579.4881253,2422020672.968726
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2019,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2019,33947.01825767265,37255.38172578316,31174.986656587556
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2020,2787604305.517341,3061475318.763145,2563109923.4409723
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2020,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2020,35511.709997159756,39000.593975335505,32651.842340724877
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2022,2810005872.688428,3084954663.901607,2578117952.8614306
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2022,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2022,35147.825387588775,38586.911475634486,32247.348845960532
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2021,2969485680.625612,3244516307.5355825,2741905976.54597
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2021,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2021,37480.429575537186,40951.82737020287,34607.950638450166
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2023,2799135266.2993536,3084150438.573339,2566897218.5084476
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2023,1.0,1.0,1.0
+1,Toute la population,2,AVAIs (Années de Vie Ajustées en fonction de l’Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2023,34703.63518658286,38237.24882802512,31824.351507793384
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1990,573742072.0693127,735125478.3467737,435576672.0067244
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1990,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1990,10752.092388051771,13776.46410256694,8162.83282591595
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1991,583017542.2888788,747056152.4516549,443048562.4302735
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1991,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1991,10758.503937604159,13785.53126585032,8175.6368508963205
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1992,592010272.398618,759154458.4416479,450232477.2213148
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1992,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1992,10763.71951978218,13802.675466678471,8185.966239862611
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1993,601154182.9460471,770382303.7983717,457495743.8478337
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1993,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1993,10773.18904860433,13805.899441381838,8198.70887906126
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1994,610996094.2390934,782195094.6060928,465389482.3133572
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1994,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1994,10799.97865159939,13826.09545753633,8226.23339339435
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1995,620421073.8123981,794017566.9866316,472866330.6742215
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1995,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1995,10823.322302476201,13851.73457844682,8249.21157404778
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1996,630376291.6155823,806133839.0549842,480739063.5272853
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1996,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1996,10855.42739698773,13882.06929497419,8278.591803701189
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1997,640176925.7378875,817901119.0703475,488342505.343843
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1997,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1997,10883.498248509519,13904.94570949401,8302.19676452159
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1998,650136204.5343904,830039988.6795342,496255329.7090746
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1998,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1998,10913.52368249529,13933.481954538709,8330.39946948226
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1999,660331455.4527063,842829010.95225,504223431.5112675
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1999,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1999,10946.5649376871,13971.896119094048,8358.70302794749
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2000,670571551.76634,855663624.3723781,512275730.921331
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2000,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2000,10977.994596753959,14008.15561032333,8386.51772698843
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2001,680776846.930156,868272460.8911494,519711637.7255198
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2001,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2001,11005.392837973981,14036.43435523868,8401.623470933011
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2002,691126307.8317995,881354007.047487,527381401.2517306
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2002,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2002,11031.93584218739,14068.39929231715,8418.19753790637
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2003,701366634.627336,894335686.0669582,534843299.8017813
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2003,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2003,11052.99425496862,14094.03685900151,8428.71563623586
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2004,712069950.009198,908222303.307103,542489846.4529428
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2004,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2004,11078.16220759649,14129.83934578761,8439.88784374651
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2005,723579467.7421558,923811398.5044844,550689359.9240499
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2005,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2005,11110.78995978112,14185.414137390359,8456.00805989529
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2006,735395396.7887387,938831934.9519004,558817486.2889391
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2006,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2006,11144.87097369704,14227.93891111489,8468.84384880789
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2007,747617808.9198399,954391513.0079684,567364891.2232121
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2007,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2007,11179.48495820134,14271.470578427059,8484.07728061695
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2008,759655765.4918437,969499401.8058892,576385637.0462273
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2008,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2008,11208.33340704141,14304.46924381866,8504.27612678131
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2009,772435554.6246741,986406999.8234452,586356827.8057153
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2009,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2009,11242.12497727297,14356.29251408597,8533.91159948894
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2010,785676732.9006236,1003688254.5948108,596635003.8078833
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2010,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2010,11283.25091683175,14414.1552684908,8568.3871900795
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2011,799144595.7753103,1021420248.1116242,607490934.8440115
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2011,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2011,11333.56758009861,14485.90839611837,8615.51163675479
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2012,813213523.1963114,1039979821.5300728,618872796.4184477
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2012,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2012,11390.06623865907,14566.210123435,8668.08278938155
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2013,827505386.8949373,1058739677.7017812,630499250.3193977
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2013,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2013,11444.77878382212,14642.85501079215,8720.0936181789
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2014,841724155.0477964,1077716343.7647943,642457733.4135944
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2014,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2014,11496.693063310979,14719.993407904562,8775.011769487779
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2015,855851454.7164786,1096345831.0646048,654482457.8661796
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2015,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2015,11544.54974419581,14788.569808250078,8828.29052857386
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2016,868143797.0166686,1113623869.497494,665419884.547971
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2016,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2016,11568.64088691053,14839.839521494468,8867.19885553377
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2017,878811951.3072269,1128785476.2015364,674646657.3537439
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2017,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2017,11570.9045986938,14862.18870611725,8882.75597351181
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2018,888625468.788801,1142511524.813442,683015637.3125079
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2018,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2018,11565.870692399249,14870.31491296225,8889.763820083179
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2019,899911362.3254142,1158364702.129905,692011966.5199715
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2019,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2019,11583.18961754318,14909.86618545187,8907.21704535078
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2020,942861880.4443626,1216113463.3555305,721561091.8619976
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2020,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2020,12011.25913008767,15492.25209218076,9192.07514090912
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2021,971755883.677706,1251012605.1871183,744661411.5943209
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2021,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2021,12265.36575018028,15790.10471501807,9399.01134293428
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2022,982415007.3283184,1267986268.367816,751889549.9011317
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2022,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2022,12288.14198266666,15860.09495126556,9404.707252584429
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2023,990279218.8320332,1278727830.2285194,756478247.1613075
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2023,1.0,1.0,1.0
+1,Toute la population,3,AVI (Années Vécues avec une Incapacité),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2023,12277.46624357877,15853.64760948118,9378.80545900853
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1980,2284072064.8744164,2298998133.177236,2268603463.907432
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1980,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1980,51106.364780928074,51440.3372081382,50760.25312542182
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1981,2259312763.8287773,2276116763.853922,2238848252.60582
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1981,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1981,49635.096715434105,50004.265685665894,49185.50956218658
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1982,2250426936.0714817,2276250984.173871,2228744687.6585956
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1982,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1982,48553.46376683486,49110.62337231009,48085.664414710016
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1983,2259122124.91346,2284724220.0558014,2237344943.555684
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1983,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1983,47861.05036133415,48403.44829168521,47399.68585066951
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1984,2266931988.3911195,2299153109.6897116,2242883413.5882516
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1984,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1984,47157.51733336918,47827.79244260054,46657.25041362187
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1985,2248000363.4324594,2273601767.237906,2227627814.295807
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1985,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1985,45914.533381173824,46437.432099853395,45498.431986080526
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1986,2231294386.6450963,2253959485.751765,2212145594.925228
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1986,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1986,44757.23733482394,45211.87354329831,44373.13426854505
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1987,2212072115.730364,2231137886.605437,2195275487.064747
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1987,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1987,43593.81587623872,43969.549424505945,43262.80083736019
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1988,2199209861.8285565,2218001662.1756096,2183463673.6067204
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1988,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1988,42597.68445100858,42961.67298859386,42292.68802078056
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1989,2177742251.16794,2192401225.67788,2163251332.6289425
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1989,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1989,41479.47615116442,41758.685769869066,41203.467496042605
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1990,2167870843.2332683,2184033032.575594,2151101935.025789
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1990,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1990,40626.52666857567,40929.41077183676,40312.27247828545
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1991,2166387497.6684356,2182084804.0300198,2151076465.19777
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1991,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1991,39976.650329491975,40266.31491083182,39694.113714079445
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1992,2143354124.6866345,2157930214.1792645,2128944399.4332
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1992,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1992,38969.69986048015,39234.71711830274,38707.70737788909
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1993,2145188883.3688223,2158905954.786408,2130431163.9291246
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1993,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1993,38443.590747784765,38689.41221549981,38179.11999142904
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1994,2196212411.448834,2240085872.189725,2167348657.6494217
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1994,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1994,38820.29260361092,39595.800735072036,38310.096339219264
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1995,2140575559.561624,2154611591.407585,2124860309.9087203
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1995,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1995,37342.60516260985,37587.46547269436,37068.45069037044
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1996,2128182965.457158,2142396152.1459608,2112369913.6609266
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1996,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1996,36648.48436767441,36893.243281092124,36376.17489477391
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1997,2107584392.2736652,2123762998.2547958,2091999223.1732497
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1997,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1997,35830.54952419214,36105.5982221064,35565.58970794823
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1998,2096337424.174459,2111859289.740877,2082035291.869242
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1998,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1998,35190.207783635204,35450.765873269534,34950.124769438255
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1999,2082029389.7100043,2106109350.1876428,2068116904.133643
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1999,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1999,34514.5907080992,34913.77334416596,34283.95815902297
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2000,2058941159.818642,2073121186.3573818,2046424462.679104
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2000,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2000,33707.13366528168,33939.276311825626,33502.2215523161
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2001,2036010189.4022624,2049583916.4305756,2023468118.8256636
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2001,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2001,32914.00413737713,33133.43609793167,32711.249865812995
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2002,2020709533.3385262,2035242410.8686619,2007252598.36633
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2002,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2002,32255.085177443976,32487.06270557164,32040.282121094555
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2003,2003295591.7844055,2018480639.168056,1989859730.8980372
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2003,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2003,31570.38497955093,31809.6895503794,31358.64623143311
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2004,1986031410.176541,1999988368.0506558,1973478906.992089
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2004,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2004,30898.057292030273,31115.19528985202,30702.769362260256
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2005,1950222653.4230978,1963110093.3550792,1938553488.8200064
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2005,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2005,29946.281290436644,30144.171977758582,29767.097603376485
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2006,1919777756.1509461,1931136288.218071,1905654881.9619465
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2006,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2006,29094.1111188685,29266.248957766416,28880.079849021713
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2007,1899948660.678453,1911323035.7372682,1886996907.1892302
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2007,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2007,28410.836686859846,28580.92313124601,28217.16295198145
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2008,1891946872.8721952,1903434596.8433805,1880613249.0274732
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2008,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2008,27914.711245337865,28084.20675396968,27747.489405483382
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2009,1855484548.632783,1865540368.1147223,1844131199.9818738
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2009,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2009,27004.95732522871,27151.310996661894,26839.719249793277
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2010,1853272396.1556556,1864261833.4743571,1842459809.212067
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2010,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2010,26615.1924670871,26773.013837517574,26459.910878062383
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2011,1822499942.7595572,1834904450.4331295,1811444404.2714715
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2011,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2011,25846.919787966453,26022.84205129587,25690.12877260889
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2012,1801820929.6732304,1812202022.020146,1791363405.640337
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2012,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2012,25236.741831980187,25382.14193427591,25090.271208915714
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2013,1787709137.3232756,1799188044.955814,1778859875.78711
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2013,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2013,24724.836756960052,24883.595310819488,24602.447413898943
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2014,1780376238.089103,1790800397.4691188,1769508291.402291
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2014,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2014,24317.2766562229,24459.65508283259,24168.836758736994
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2015,1782558579.503458,1793348413.8408766,1771831265.533976
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2015,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2015,24044.8690945299,24190.41278503074,23900.168739042012
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2016,1782909338.5624192,1793772754.4532435,1772231628.6901383
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2016,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2016,23758.55007272697,23903.312907729618,23616.261904071573
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2017,1778452502.9451215,1789406413.5928595,1767520039.674278
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2017,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2017,23416.04960455546,23560.274606160267,23272.106990498527
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2018,1761032972.144587,1772293457.6568232,1750244591.8172042
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2018,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2018,22920.657077989592,23067.217495108478,22780.241327789445
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2019,1737471643.205274,1746636780.1068065,1728773627.6974602
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2019,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2019,22363.82864012948,22481.797501336943,22251.87232182831
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2020,1844742425.0729792,1851547895.2707243,1836730994.8116777
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2020,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2020,23500.450867072053,23587.146774227276,23398.392053509913
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2021,1997729796.9479055,2007190203.4409275,1989123404.6918597
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2021,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2021,25215.063825356938,25334.47174223326,25106.435155767158
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2022,1827590865.3601084,1848871834.526924,1808024901.6137671
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2022,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2022,22859.683404922136,23125.86782667863,22614.950436930747
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2023,1808856047.4673197,1836374343.6600163,1784551678.821015
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2023,1.0,1.0,1.0
+1,Toute la population,4,AVP (Années de Vie Perdues),1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2023,22426.16894300412,22767.340348161044,22124.843761225136
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1990,5211489234.37012,5230254120.3893,5193312301.087518
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1990,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1990,97664.81569877864,98016.47509060559,97324.1747113029
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1991,5290470242.341684,5308388594.672689,5272275059.014893
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1991,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1991,97625.78448421482,97956.43433627882,97290.02623121584
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1992,5367380783.513445,5384458887.606423,5350429205.267437
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1992,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1992,97587.80210946624,97898.3101039334,97279.59456279916
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1993,5443533936.552824,5460040401.535413,5425908241.267488
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1993,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1993,97552.71085960353,97848.52060829411,97236.84356164762
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1994,5517151553.892178,5534054820.347639,5499531502.637355
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1994,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1994,97521.27642301636,97820.05888428328,97209.82405992196
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1995,5588656561.406621,5606210570.27356,5571771156.472358
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1995,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1995,97494.80434354568,97801.03619750244,97200.23636781861
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1996,5659881021.999192,5677792825.048959,5643105549.76881
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1996,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1996,97466.272648732,97774.72377568913,97177.38976517621
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1997,5730970608.889564,5749359802.724258,5713592768.425776
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1997,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1997,97430.89148709348,97743.52187229617,97135.4548841066
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1998,5802018154.993066,5820884368.86933,5784254170.496777
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1998,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1998,97395.68739466342,97712.3854503964,97097.49193324536
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1999,5873449366.296724,5892765729.788449,5855320707.001742
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1999,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1999,97366.39738342594,97686.61206587989,97065.87172382417
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2000,5946313640.187457,5966047200.390916,5927699936.445254
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2000,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2000,97347.70113738516,97670.7612444202,97042.97431357458
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2001,6020607988.116881,6040341606.606409,6001625124.341845
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2001,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2001,97328.74484708843,97647.75719977237,97021.86914475501
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2002,6095649414.370781,6115655644.943594,6076228350.407887
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2002,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2002,97300.32339062911,97619.66798744492,96990.31937371104
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2003,6172220431.206428,6192462522.387859,6152937754.234799
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2003,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2003,97269.40746585911,97588.40712522526,96965.52743041792
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2004,6250398007.684999,6270469499.287515,6231439451.194484
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2004,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2004,97241.74287972396,97554.00888634064,96946.79157048662
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2005,6331550945.932066,6352594954.722787,6313531433.449234
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2005,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2005,97222.953132458,97546.09049609148,96946.25785944382
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2006,6413968448.580983,6435638586.064181,6396224440.559883
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2006,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2006,97203.28832753644,97531.6978977992,96934.37900227432
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2007,6498290294.469446,6520168735.667091,6479667218.117548
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2007,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2007,97172.02791892856,97499.18666415884,96893.5481937703
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2008,6583401360.602892,6604590864.084967,6563836317.602924
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2008,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2008,97134.72964196108,97447.36995951727,96846.05741036843
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2009,6671620743.211352,6692978758.937743,6651779804.858917
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2009,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2009,97099.61400287024,97410.4612711311,96810.84647101727
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2010,6759624366.901293,6781694654.533208,6739468383.257723
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2010,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2010,97076.23331760848,97393.18885762837,96786.7694561978
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2012,6927052618.632513,6949971024.672859,6905714882.232733
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2012,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2012,97021.98243677575,97342.98320156628,96723.1209151162
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2011,6843551804.572416,6865840267.787182,6822940494.4129305
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2011,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2011,97056.0988274953,97372.19657180403,96763.78667542442
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2013,7011968954.4421625,7036703431.0788765,6989550179.44267
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2013,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2013,96978.74454176571,97320.83369057842,96668.68260798638
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2014,7097153564.458856,7121688861.238892,7074248010.951642
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2014,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2014,96936.50308649374,97271.61854516952,96623.64748345748
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2015,7183687337.092556,7207934576.764873,7159631140.74115
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2015,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2015,96900.50224578736,97227.57239682108,96576.00907129496
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2016,7268495116.358346,7293602406.398363,7244557950.790346
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2016,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2016,96857.9284657358,97192.5011749052,96538.94850727922
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2017,7352603779.40609,7377366797.792482,7327948465.734226
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2017,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2017,96808.28390755606,97134.32695112012,96483.65896143009
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2018,7434731666.70423,7461369992.5328865,7408872330.171385
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2018,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2018,96766.46473681499,97113.1748445234,96429.89353439628
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2019,7516232701.330427,7544861875.222462,7489730036.409719
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2019,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2019,96745.0264925168,97113.52628446101,96403.89801475938
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2020,7600038910.740265,7628901443.306778,7574519541.682157
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2020,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2020,96818.03734883023,97185.72148687557,96492.94227292284
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2021,7673972170.188797,7704365997.841928,7648475105.830635
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2021,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2021,96859.79473347624,97243.42134070878,96537.9743821291
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2022,7749997479.093634,7779593485.533834,7724146096.655992
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2022,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2022,96937.71845708872,97307.90816972968,96614.3668638492
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2023,7817221944.006912,7846041972.93605,7789012727.704273
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2023,1.0,1.0,1.0
+1,Toute la population,5,Prévalence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2023,96917.79521467164,97275.10548190492,96568.05779281404
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1990,25398302388.768986,26925562094.084072,24081294338.032776
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1990,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1990,475971.5333386415,504592.8219829798,451290.42151734733
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1991,25720275537.99797,27255457170.93941,24394313425.69745
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1991,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1991,474619.82801661204,502948.7485806429,450151.66441677517
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1992,26003116473.816,27568400900.339943,24680971465.258766
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1992,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1992,472779.3847737918,501238.8276606918,448740.61602248193
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1993,26285126850.13463,27877810166.748444,24956931482.870117
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1993,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1993,471051.601662831,499593.82751968526,447249.2225212634
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1994,26560176351.126263,28164195267.645325,25210802000.18519
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1994,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1994,469478.1853427526,497830.85439989436,445626.6184987312
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1995,26806959735.728344,28380652572.009277,25442257488.15949
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1995,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1995,467650.72531534004,495103.9913166122,443843.3259605956
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1996,27036902788.230778,28594259361.125526,25649867246.57599
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1996,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1996,465590.37698714,492408.9160615601,441704.8600034887
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1997,27220582918.06541,28760652713.096542,25839962333.06887
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1997,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1997,462770.76633260504,488953.13286742504,439299.1585402017
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1998,27383088528.290108,28911442429.55848,25998171057.80214
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1998,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1998,459666.7330154066,485322.4746590702,436418.7897274359
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,1999,27536019465.2358,29053788455.295807,26150031573.249542
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,1999,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,1999,456475.0364572145,481635.6685502431,433498.9895989375
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2000,27716099634.067307,29226532101.93102,26325187026.90671
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2000,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2000,453743.06623121817,478470.5087051684,430972.2954674646
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2001,27927392386.88001,29443181870.88548,26520419369.639297
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2001,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2001,451472.35183424427,475976.50294686476,428727.3204234559
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2002,28139856032.91324,29649157573.57922,26711841799.12488
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2002,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2002,449175.6178944939,473267.47718918306,426381.2874944456
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2003,28359104723.85435,29850861129.40232,26924522258.333405
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2003,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2003,446917.49808624125,470426.422187108,424309.59094206005
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2004,28594445080.88648,30094788148.03648,27163779136.510803
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2004,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2004,444863.4587629737,468205.32828677015,422605.604184961
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2005,28818968998.632317,30336007138.45103,27391954508.087677
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2005,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2005,442524.31927124417,465818.9163181982,420612.06362988416
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2006,29045603558.476498,30566735726.274605,27636530705.410187
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2006,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2006,440184.2946337759,463236.9569404451,418829.8841920761
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2007,29257807026.89164,30793590290.76336,27864915404.84642
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2007,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2007,437505.91500711965,460471.21317506663,416677.34357493644
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2008,29467957104.586765,31017414767.028973,28095003392.0159
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2008,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2008,434784.67887195793,457646.1364816467,414527.44702831376
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2009,29698233007.734734,31273170511.36379,28339178069.759228
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2009,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2009,432231.8477938981,455153.68786351435,412451.9899504506
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2010,29964240038.818363,31572359505.47637,28610823908.875286
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2010,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2010,430322.0710659995,453416.5763335225,410885.4081872899
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2011,30184028203.76696,31794645979.60609,28842542135.73353
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2011,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2011,428073.6243421705,450915.60501085164,409048.5028682929
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2012,30373213325.99565,31979930326.77541,29029231462.06607
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2012,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2012,425414.60735214455,447918.676140537,406590.47074218397
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2013,30556992423.595886,32189060441.050323,29216441944.251846
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2013,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2013,422617.2108670337,445189.459598858,404076.7833029201
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2014,30725835100.57732,32417507872.11206,29385711781.75485
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2014,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2014,419668.95347702905,442774.67344628763,401364.87324944773
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2015,30926850233.01072,32665897194.1357,29596976506.48139
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2015,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2015,417171.17962317774,440629.1220494729,399232.56036301324
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2016,31092476216.257576,32831640301.52736,29738597868.999023
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2016,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2016,414329.6224274986,437505.2355172179,396288.2190818525
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2017,31164710054.859142,32889669034.2443,29779987033.401237
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2017,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2017,410331.1139025058,433042.8393830665,392099.11563134956
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2018,31209385592.709644,32911768130.00229,29791387369.355656
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2018,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2018,406204.5606756049,428361.8552692001,387748.6592082319
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2019,31322965519.30726,33007799200.326138,29905226954.1156
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2019,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2019,403172.87255531386,424859.17280474654,384924.48130677623
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2020,33332325082.874157,35001395899.0771,31859166527.479347
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2020,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2020,424625.49635587685,445888.0402084634,405858.70822333137
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2021,35818960340.17556,37649918939.43511,34213773253.63961
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2021,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2021,452101.86708698637,475211.96836917684,431841.4220055348
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2022,40435187111.59848,44660578398.20148,37685977497.9563
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2022,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2022,505767.2334162162,558618.8365317897,471379.85352019867
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,1,#,2023,39545856779.51794,44007871063.54663,36510498843.58666
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,2,%,2023,1.0,1.0,1.0
+1,Toute la population,6,Incidence,1,Global,3,Les deux,22,Tout age,294,Toutes causes,3,Taux,2023,490288.91291546327,545608.8961169086,452656.59277092014

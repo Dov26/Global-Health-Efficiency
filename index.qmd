@@ -1,0 +1,18 @@
+---
+title: "Global Health Efficiency: Evidence, Analysis and Policy"
+subtitle: "Transition from RMarkdown to Quarto"
+author: "Romuald Guédé, PhD"
+date: last-modified
+---
+## Abstract
+Global health systems exhibit strong non-linear efficiency dynamics post-2020.
+## Empirical Evidence
+- Translog frontier supported (LR = 378.92)
+- QRF performance (R² = 0.912)
+## Comparative Trajectories
+![Trajectories](../outputs/figures/comparative_trajectories.png)
+## Policy Recommendations
+### Q10–Q25 (Low efficiency)
+- Strengthen governance and regulatory quality.
+### Q75–Q90 (Frontier)
+- Prioritize innovation ecosystems and R&D.

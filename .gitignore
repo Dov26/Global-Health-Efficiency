@@ -1,0 +1,5 @@
+.quarto/
+  .RData
+.Rhistory
+*.Rproj.user
+outputs/

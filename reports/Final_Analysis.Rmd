@@ -1,0 +1,47 @@
+---
+title: "Global Health Efficiency: Evidence, Analysis and Policy"
+author: "Romuald Guédé, PhD"
+date: "`r Sys.Date()`"
+output:
+  html_document: {toc: true}
+  pdf_document: {toc: true}
+---
+# Abstract
+Global health systems exhibit strong non-linear efficiency dynamics with a structural break post-2020.
+# Empirical Evidence
+- Translog frontier strongly supported (LR = 378.92, p < 0.001)
+- DEA convergence toward frontier (Mean ≈ 0.9999)
+- QRF outperforms linear models (R² = 0.912)
+# Comparative Trajectories
+```{r, echo=FALSE}
+knitr::include_graphics('outputs/figures/comparative_trajectories.png')
+```
+# Analysis
+## Quantile Heterogeneity
+- Lower quantiles (Q10): governance, infrastructure bottlenecks
+- Upper quantiles (Q90): education expenditure, innovation
+
+## Great Convergence (2025)
+Global efficiency disparities collapse due to digitalization and standardized protocols.
+
+## Spending Paradox
+High spending correlates with wealth but negatively with efficiency.
+# Policy Recommendations
+## Tiered Strategy
+
+### 1. Q10–Q25 (Low efficiency)
+- Strengthen governance
+- Improve regulatory quality
+
+### 2. Q25–Q75 (Transition)
+- Invest in digital health systems
+- Enable leapfrogging
+
+### 3. Q75–Q90 (Frontier)
+- Prioritize education and R&D
+- Strengthen innovation ecosystems
+
+## Structural Shift
+Move from resource-based to process-based health systems.
+# Conclusion
+The 2025 convergence marks a paradigm shift toward process-driven efficiency systems.
