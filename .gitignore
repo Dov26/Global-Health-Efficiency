@@ -1,5 +1,14 @@
+# Fichiers temporaires et de session
 .quarto/
-  .RData
+.RData
 .Rhistory
 *.Rproj.user
+
+# Dossiers de résultats et données volumineuses
 outputs/
+data/
+
+# Scripts privés (RG Data & Finance)
+scripts/01_setup_and_data_acquisition.R
+scripts/07_Run_Pipeline.R
+scripts/Master Orchestrator.R
