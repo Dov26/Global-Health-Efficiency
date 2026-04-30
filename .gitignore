@@ -6,9 +6,11 @@
 
 # Dossiers de résultats et données volumineuses
 outputs/
+Others/
 data/
 
 # Scripts privés (RG Data & Finance)
 scripts/01_setup_and_data_acquisition.R
 scripts/07_Run_Pipeline.R
+scripts/Master Orchestrator_rm.R
 scripts/Master Orchestrator.R
